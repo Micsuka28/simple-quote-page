@@ -45,8 +45,7 @@ nav {
 } 
 @media (min-width: 768px) {
   .wrapper {
-    display: block;
-    margin-top: 15rem;
+    margin-top: 8rem;
   }
   .quote {
     font-size: 2rem; 
@@ -63,8 +62,8 @@ nav {
 }
 @media (min-width: 1920px) {
   .wrapper {
-    display: block;
-    margin-top: 15rem;
+    padding-top: 0;
+    margin-top: 5rem;
   }
   .quote {
     font-size: 3rem; 
